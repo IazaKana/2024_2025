@@ -1,0 +1,5 @@
+1. apply 함수
+
+2. tolist 파라미터
+-> numpy.ndarray.tolist
+-> 같은 레벨에 있는 데이터끼리 묶어줌
