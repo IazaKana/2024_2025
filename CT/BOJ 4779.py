@@ -6,6 +6,7 @@ for i in range(1, 13):
 
 while True:
 	try:
+		
 		N = int(input())
 		print(ans[N])
 	except:
