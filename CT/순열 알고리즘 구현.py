@@ -17,3 +17,8 @@ def permutation(level):
 
 		check[i] = False
 		choose.pop()
+
+permutation(0)
+
+# 순서에 상관있게 선택해야 하므도 모든 경우를 살펴보도록 구현
+# 모든 경우를 살펴보는 대신에 원소가 중복되어 선택되는 것을 방지하기 위해 check 배열 이용
