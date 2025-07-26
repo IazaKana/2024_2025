@@ -1,2 +1,2 @@
-a = int(input())
-printa
+A = list(map(int, input().split()))
+print(A)
