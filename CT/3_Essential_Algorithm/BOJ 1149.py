@@ -1,3 +1,4 @@
+# Bottom-Up
 N = int(input())
 cost = [[0, 0, 0]]
 cost += [list(map(int, input().split())) for _ in range(N)]
