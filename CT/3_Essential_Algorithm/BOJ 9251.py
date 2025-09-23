@@ -1,3 +1,4 @@
+# bottom-up
 s1 = input()
 s2 = input()
 
