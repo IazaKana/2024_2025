@@ -1,3 +1,4 @@
+# bottom-up
 N, K = map(int, input().split())
 
 W = [0]
